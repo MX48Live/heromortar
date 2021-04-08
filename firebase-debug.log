@@ -1,0 +1,18 @@
+[debug] [2018-01-20T15:28:46.998Z] ----------------------------------------------------------------------
+[debug] [2018-01-20T15:28:47.000Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-01-20T15:28:47.001Z] CLI Version:   3.16.0
+[debug] [2018-01-20T15:28:47.001Z] Platform:      darwin
+[debug] [2018-01-20T15:28:47.001Z] Node Version:  v8.4.0
+[debug] [2018-01-20T15:28:47.001Z] Time:          Sat Jan 20 2018 22:28:47 GMT+0700 (+07)
+[debug] [2018-01-20T15:28:47.001Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-01-20T15:28:47.020Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-01-20T15:28:47.020Z] > authorizing via signed-in user
+[debug] [2018-01-20T15:28:47.022Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/heromortar  
+  
+ Sat Jan 20 2018 22:28:47 GMT+0700 (+07)
+[debug] [2018-01-20T15:28:48.391Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-20T15:28:48.392Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/heromortar/tokens  
+  
+ Sat Jan 20 2018 22:28:48 GMT+0700 (+07)
+[debug] [2018-01-20T15:28:49.758Z] <<< HTTP RESPONSE 200
