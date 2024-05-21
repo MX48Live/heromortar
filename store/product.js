@@ -16,8 +16,9 @@ export const state = () => ({
       { id: 8, alias: 'hero-h-201', code: 'H-201', img: mortarImgPath + 'mortar-8.png', color: '#F38AB9', name: 'ปูนเทปรับระดับพื้น (บาง)' },
       { id: 9, alias: 'hero-h-202', code: 'H-202', img: mortarImgPath + 'mortar-9.png', color: '#3F3F3F', name: 'ปูนทรายชนิดไม่หดตัว' },
       { id: 12, alias: 'hero-fn-205', code: 'FN-205', img: mortarImgPath + 'mortar-12.png', color: '#451E15', name: 'ปูนแต่งพื้นผิวขัดมัน' },
+      { id: 12, alias: 'hero-h-7000', code: 'H-7000', img: mortarImgPath + 'mortar-h-7000.png', color: '#5C2E91', name: 'ปูนซ่อมโครงสร้าง' },
       { id: 10, alias: 'hero-h-301', code: 'H-301', img: mortarImgPath + 'mortar-10.png', color: '#567FC9', name: 'ปูนผสมน้ำยาประสานรอยร้าว' },
-      { id: 11, alias: 'hero-h-301-liquid', code: 'H-301', img: mortarImgPath + 'mortar-11.png', color: '#565771', name: 'น้ำยาประสานรอยร้าว' },
+      { id: 11, alias: 'hero-h-501-liquid', code: 'H-501', img: mortarImgPath + 'mortar-11.png', color: '#565771', name: 'น้ำยาประสานรอยร้าว' },
       { id: 14, alias: 'hero-h-1000', code: 'H-1000', img: mortarImgPath + 'mortar-1000.png', color: '#565771', name: 'ปูนแต่งผิวไม่มีทราย-ขาว (ภายใน)' },
     ],
     customerList: [
